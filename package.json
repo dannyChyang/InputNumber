@@ -1,0 +1,24 @@
+{
+  "name": "InputNumber",
+  "version": "1.0.0",
+  "description": "antd InputNumber的增强版； 默认支持千位分隔符； 扩展实现了antd Input的prefix及suffix；",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannyChyang/InputNumber.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dannyChyang/InputNumber/issues"
+  },
+  "homepage": "https://github.com/dannyChyang/InputNumber#readme",
+  "dependencies": {
+    "antd": "^3.10.9",
+    "numeral": "^2.0.6"
+  }
+}
